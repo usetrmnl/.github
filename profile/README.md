@@ -38,6 +38,8 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 ## Miscellaneous
 
+**[Mockups](https://github.com/usetrmnl/mockups)** - high fidelity render templates to share your work
+
 **[TRMNL::API](https://github.com/usetrmnl/trmnl-api)** - a Ruby gem for interacting with the [TRMNL API](https://usetrmnl.com/api-docs/index.html)
 
 **[Docs](https://github.com/usetrmnl/api-docs)** - the GitBook documentation at [docs.usetrmnl.com](https://docs.usetrmnl.com/)

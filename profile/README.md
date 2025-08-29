@@ -16,15 +16,15 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 **[Terminus](https://github.com/usetrmnl/byos_hanami)** - our flagship self-hosted server in Ruby's Hanami framework
 
-**[BOYS Laravel](https://github.com/usetrmnl/byos_laravel)** - a self-hosted server in PHP's Laravel framework
+**[BYOS Laravel](https://github.com/usetrmnl/byos_laravel)** - a self-hosted server in PHP's Laravel framework
 
-**[BOYS Node Lite](https://github.com/usetrmnl/byos_node_lite)** - a lightweight self-hosted server in Node.js
+**[BYOS Node Lite](https://github.com/usetrmnl/byos_node_lite)** - a lightweight self-hosted server in Node.js
 
-**[BOYS Next.js](https://github.com/usetrmnl/byos_next)** - a self-hosted server in Next.js
+**[BYOS Next.js](https://github.com/usetrmnl/byos_next)** - a self-hosted server in Next.js
 
-**[BOYS Django](https://github.com/usetrmnl/byos_django)** - a self-hosted server in Python's Django framework
+**[BYOS Django](https://github.com/usetrmnl/byos_django)** - a self-hosted server in Python's Django framework
 
-**[BOYS Phoenix](https://github.com/usetrmnl/byos_phoenix)** - a self-hosted server in Elixir's Phoenix framework
+**[BYOS Phoenix](https://github.com/usetrmnl/byos_phoenix)** - a self-hosted server in Elixir's Phoenix framework
 
 ## Plugin Development
 

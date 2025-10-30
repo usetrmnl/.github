@@ -54,9 +54,11 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 **[Android](https://github.com/usetrmnl/trmnl-android)** - use a tablet or phone
 
+**[KOReader](https://github.com/usetrmnl/trmnl-koreader)** - repurpose dozens of e-ink devices
+
 **[iPad](https://github.com/usetrmnl/trmnl-ipad)** - put your dusty old tablet to use
 
-**[Raspberry Pi](https://github.com/usetrmnl/trmnl-display)** - output TRMNL screens directly to HDMI
+**[Raspberry Pi](https://github.com/usetrmnl/trmnl-display)** - output directly to HDMI or e-ink
 
 **[Mozilla Firefox](https://github.com/usetrmnl/trmnl-firefox)** - see TRMNL content in new tabs
 

@@ -42,6 +42,8 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 **[TRMNL::API](https://github.com/usetrmnl/trmnl-api)** - a Ruby gem for interacting with the [TRMNL API](https://usetrmnl.com/api-docs/index.html)
 
+**[TRMNL Companion](https://github.com/usetrmnl/trmnl-companion)** - iOS application to sync any calendar natively
+
 **[Docs](https://github.com/usetrmnl/api-docs)** - the GitBook documentation at [docs.usetrmnl.com](https://docs.usetrmnl.com/)
 
 ## Alternative Screens and Clients

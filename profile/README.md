@@ -36,6 +36,8 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 **[TRMNL::Liquid](https://github.com/usetrmnl/trmnl-liquid)** - Liquid filters and tags for advanced plugin markup
 
+**[TRMNL::FormBuilder](https://github.com/usetrmnl/trmnl-form-builder)** - a WYSIWYG component for plugin form fields
+
 ## Miscellaneous
 
 **[Mockups](https://github.com/usetrmnl/mockups)** - high fidelity render templates to share your work

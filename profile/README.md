@@ -22,6 +22,8 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 **[BYOS Next.js](https://github.com/usetrmnl/byos_next)** - a self-hosted server in Next.js
 
+**[BYOS FastAPI](https://github.com/usetrmnl/byos_fastapi)** - a self-hosted server in Python's FastAPI framework
+
 **[BYOS Django](https://github.com/usetrmnl/byos_django)** - a self-hosted server in Python's Django framework
 
 **[BYOS Phoenix](https://github.com/usetrmnl/byos_phoenix)** - a self-hosted server in Elixir's Phoenix framework

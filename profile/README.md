@@ -40,6 +40,8 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 **[TRMNL::FormBuilder](https://github.com/usetrmnl/trmnl-form-builder)** - a WYSIWYG component for plugin form fields
 
+**[TRMNL::Picker](https://github.com/usetrmnl/trmnl-picker)** - JavaScript library for managing device models and palettes
+
 ## Miscellaneous
 
 **[Mockups](https://github.com/usetrmnl/mockups)** - high fidelity render templates to share your work

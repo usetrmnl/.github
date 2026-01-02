@@ -42,6 +42,8 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 **[TRMNL::Picker](https://github.com/usetrmnl/trmnl-picker)** - JavaScript library for managing device models and palettes
 
+**[TRMNL::PluginLicense](https://github.com/usetrmnl/plugin-license)** - TOS for community plugin development
+
 ## Miscellaneous
 
 **[Mockups](https://github.com/usetrmnl/mockups)** - high fidelity render templates to share your work

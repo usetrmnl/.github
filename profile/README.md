@@ -2,9 +2,9 @@
 
 TRMNL is an e-ink display that connects with popular products and renders their most useful information. We believe this black & white, focused, hands-off approach is the best way to stay informed without getting distracted.
 
-Our proprietary device is available for purchase at [https://usetrmnl.com](https://usetrmnl.com), however we also provide guides to build your own device, install and mod our open source firmware, and even point your own device (or ours) at your own web server for end-to-end privacy.
+Our proprietary device is available for purchase at [https://trmnl.com](https://trmnl.com), however we also provide guides to build your own device, install and mod our open source firmware, and even point your own device (or ours) at your own web server for end-to-end privacy.
 
-See the other repositories in this GitHub organization and our API docs (https://docs.usetrmnl.com) to get started.
+See the other repositories in this GitHub organization and our API docs (https://docs.trmnl.com) to get started.
 
 ## Hardware
 
@@ -48,11 +48,11 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 **[Mockups](https://github.com/usetrmnl/mockups)** - high fidelity render templates to share your work
 
-**[TRMNL::API](https://github.com/usetrmnl/trmnl-api)** - a Ruby gem for interacting with the [TRMNL API](https://usetrmnl.com/api-docs/index.html)
+**[TRMNL::API](https://github.com/usetrmnl/trmnl-api)** - a Ruby gem for interacting with the [TRMNL API](https://trmnl.com/api-docs/index.html)
 
 **[TRMNL Companion](https://github.com/usetrmnl/trmnl-companion)** - iOS application to sync any calendar natively
 
-**[Docs](https://github.com/usetrmnl/api-docs)** - the GitBook documentation at [docs.usetrmnl.com](https://docs.usetrmnl.com/)
+**[Docs](https://github.com/usetrmnl/api-docs)** - the GitBook documentation at [docs.trmnl.com](https://docs.trmnl.com/)
 
 ## Alternative Screens and Clients
 

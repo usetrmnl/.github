@@ -58,6 +58,8 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 **[Nook](https://github.com/usetrmnl/trmnl-nook)** - repurpose an old e-reader
 
+**[Nook Simple Touch](https://github.com/usetrmnl/trmnl-nook-simple-touch)** - repurpose an old e-reader
+
 **[Kobo](https://github.com/usetrmnl/trmnl-kobo)** - repurpose an old e-reader
 
 **[Amazon Kindle](https://github.com/usetrmnl/trmnl-kindle)** - repurpose an old e-reader

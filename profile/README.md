@@ -22,6 +22,8 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 **[BYOS Next.js](https://github.com/usetrmnl/byos_next)** - a self-hosted server in Next.js
 
+**[Inker](https://github.com/usetrmnl/inker)** - a self-hosted server in TypeScript and React
+
 **[BYOS FastAPI](https://github.com/usetrmnl/byos_fastapi)** - a self-hosted server in Python's FastAPI framework
 
 **[BYOS Django](https://github.com/usetrmnl/byos_django)** - a self-hosted server in Python's Django framework

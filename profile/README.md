@@ -16,7 +16,7 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 **[Terminus](https://github.com/usetrmnl/byos_hanami)** - our flagship self-hosted server in Ruby's Hanami framework
 
-**[BYOS Laravel](https://github.com/usetrmnl/byos_laravel)** - a self-hosted server in PHP's Laravel framework
+**[LaraPaper](https://github.com/usetrmnl/larapaper)** - a self-hosted server in PHP's Laravel framework
 
 **[BYOS Node Lite](https://github.com/usetrmnl/byos_node_lite)** - a lightweight self-hosted server in Node.js
 

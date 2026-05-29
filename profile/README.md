@@ -1,6 +1,6 @@
-# Clarity, at a glance
+<img width="252" height="106" alt="image" src="https://github.com/user-attachments/assets/8494e3c2-3920-472f-9849-a2155288430e" /># Clarity, at a glance
 
-TRMNL is an e-ink display that connects with popular products and renders their most useful information. We believe this black & white, focused, hands-off approach is the best way to stay informed without getting distracted.
+TRMNL is an ePaper display that connects with popular products and renders their most useful information. We believe this black & white, focused, hands-off approach is the best way to stay informed without getting distracted.
 
 Our proprietary device is available for purchase at [https://trmnl.com](https://trmnl.com), however we also provide guides to build your own device, install and mod our open source firmware, and even point your own device (or ours) at your own web server for end-to-end privacy.
 
@@ -8,7 +8,7 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 ## Hardware
 
-**[Firmware](https://github.com/usetrmnl/trmnl-firmware)** - the PlatformIO project to drive e-ink displays with ESP32
+**[Firmware](https://github.com/usetrmnl/trmnl-firmware)** - the PlatformIO project to drive ePaper displays with ESP32
 
 **[Mounts](https://github.com/usetrmnl/mounts)** - clever 3D-printable mounting solutions, submitted by users
 
@@ -73,6 +73,8 @@ See the other repositories in this GitHub organization and our API docs (https:/
 **[iPad](https://github.com/usetrmnl/trmnl-ipad)** - put your dusty old tablet to use
 
 **[Raspberry Pi](https://github.com/usetrmnl/trmnl-display)** - output directly to HDMI or e-ink
+
+**[Inkplate](https://github.com/lanrat/homeplate)** - turn 10+ Inkplate displays into a dashboard
 
 **[Mozilla Firefox](https://github.com/usetrmnl/trmnl-firefox)** - see TRMNL content in new tabs
 

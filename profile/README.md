@@ -1,5 +1,3 @@
-<img width="252" height="106" alt="image" src="https://github.com/user-attachments/assets/8494e3c2-3920-472f-9849-a2155288430e" /># Clarity, at a glance
-
 TRMNL is an ePaper display that connects with popular products and renders their most useful information. We believe this black & white, focused, hands-off approach is the best way to stay informed without getting distracted.
 
 Our proprietary device is available for purchase at [https://trmnl.com](https://trmnl.com), however we also provide guides to build your own device, install and mod our open source firmware, and even point your own device (or ours) at your own web server for end-to-end privacy.

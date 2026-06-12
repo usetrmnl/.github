@@ -56,6 +56,8 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 ## Alternative Screens and Clients
 
+**[Seeed Studio](https://trmnl.com/flash)** - turn 5+ DIY kits into a dashboard
+
 **[Nook](https://github.com/usetrmnl/trmnl-nook)** - repurpose an old e-reader
 
 **[Nook Simple Touch](https://github.com/usetrmnl/trmnl-nook-simple-touch)** - repurpose an old e-reader
@@ -66,11 +68,11 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 **[Android](https://github.com/usetrmnl/trmnl-android)** - use a tablet or phone
 
-**[KOReader](https://github.com/usetrmnl/trmnl-koreader)** - repurpose dozens of e-ink devices
+**[KOReader](https://github.com/usetrmnl/trmnl-koreader)** - repurpose dozens of ePaper devices
 
 **[iPad](https://github.com/usetrmnl/trmnl-ipad)** - put your dusty old tablet to use
 
-**[Raspberry Pi](https://github.com/usetrmnl/trmnl-display)** - output directly to HDMI or e-ink
+**[Raspberry Pi](https://github.com/usetrmnl/trmnl-display)** - output directly to HDMI or ePaper
 
 **[Inkplate](https://github.com/lanrat/homeplate)** - turn 10+ Inkplate displays into a dashboard
 

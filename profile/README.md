@@ -30,13 +30,15 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 ## Plugin Development
 
-**[Plugins](https://github.com/usetrmnl/plugins)** - a collection of community plugins
+**[Plugins](https://github.com/usetrmnl/plugins)** - a (tiny) collection of open source plugins
 
 **[TRMNLP](https://github.com/usetrmnl/trmnlp)** - a local dev server for rapidly iterating on plugins
 
 **[TRMNL::I18n](https://github.com/usetrmnl/trmnl-i18n)** - translations for the web app and custom plugins
 
 **[TRMNL::Liquid](https://github.com/usetrmnl/trmnl-liquid)** - Liquid filters and tags for advanced plugin markup
+
+**[TRMNL::OAuth2Providers](https://github.com/usetrmnl/oauth2-providers)** - community-maintained authorization templates
 
 **[TRMNL::FormBuilder](https://github.com/usetrmnl/trmnl-form-builder)** - a WYSIWYG component for plugin form fields
 
@@ -51,6 +53,8 @@ See the other repositories in this GitHub organization and our API docs (https:/
 **[TRMNL::API](https://github.com/usetrmnl/trmnl-api)** - a Ruby gem for interacting with the [TRMNL API](https://trmnl.com/api-docs/index.html)
 
 **[TRMNL Companion](https://github.com/usetrmnl/trmnl-companion)** - iOS application to sync any calendar natively
+
+**[BYOD Catalog](https://github.com/usetrmnl/byod-catalog)** - DIY hardware quickstart instructions
 
 **[Docs](https://github.com/usetrmnl/api-docs)** - the GitBook documentation at [docs.trmnl.com](https://docs.trmnl.com/)
 

@@ -83,3 +83,5 @@ See the other repositories in this GitHub organization and our API docs (https:/
 **[Mozilla Firefox](https://github.com/usetrmnl/trmnl-firefox)** - see TRMNL content in new tabs
 
 **[Google Chrome](https://github.com/usetrmnl/trmnl-chrome)** - see TRMNL content in new tabs
+
+**[iOS/macOS Widgets](https://github.com/LitoMore/await-widgets/tree/main/widgets/trmnl)** - see TRMNL content on your Apple devices home screen or desktop

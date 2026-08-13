@@ -85,3 +85,5 @@ See the other repositories in this GitHub organization and our API docs (https:/
 **[Google Chrome](https://github.com/usetrmnl/trmnl-chrome)** - see TRMNL content in new tabs
 
 **[iOS/macOS Widgets](https://github.com/LitoMore/await-widgets/tree/main/widgets/trmnl)** - see TRMNL content on your Apple devices home screen or desktop
+
+**[ZecTrix Note 4/4C](https://github.com/LitoMore/trmnl-firmware/releases/tag/zectrix-v1.8.10)** - use a ZecTrix device as TRMNL display

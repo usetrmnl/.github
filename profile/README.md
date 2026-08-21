@@ -54,6 +54,8 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 **[TRMNL Companion](https://github.com/usetrmnl/trmnl-companion)** - iOS application to sync any calendar natively
 
+**[TRMNL::WordPress](https://github.com/usetrmnl/trmnl-wordpress-showcase/)** - WP gallery to showcase your plugins
+
 **[BYOD Catalog](https://github.com/usetrmnl/byod-catalog)** - DIY hardware quickstart instructions
 
 **[Docs](https://github.com/usetrmnl/api-docs)** - the GitBook documentation at [docs.trmnl.com](https://docs.trmnl.com/)

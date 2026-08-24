@@ -34,6 +34,8 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 **[TRMNLP](https://github.com/usetrmnl/trmnlp)** - a local dev server for rapidly iterating on plugins
 
+**[TRMNL Arcade](https://github.com/usetrmnl/trmnl-arcade)** - open infrastructure for turn-based games
+
 **[TRMNL::I18n](https://github.com/usetrmnl/trmnl-i18n)** - translations for the web app and custom plugins
 
 **[TRMNL::Liquid](https://github.com/usetrmnl/trmnl-liquid)** - Liquid filters and tags for advanced plugin markup

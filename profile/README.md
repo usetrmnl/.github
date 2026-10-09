@@ -60,6 +60,8 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 **[BYOD Catalog](https://github.com/usetrmnl/byod-catalog)** - DIY hardware quickstart instructions
 
+**[Creator Leaderboard](https://nbbou81000.github.io/trmnl-leaderboard/)** - public plugin authors and news
+
 **[Docs](https://github.com/usetrmnl/api-docs)** - the GitBook documentation at [docs.trmnl.com](https://docs.trmnl.com/)
 
 ## Alternative Screens and Clients

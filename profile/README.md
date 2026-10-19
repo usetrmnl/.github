@@ -50,6 +50,8 @@ See the other repositories in this GitHub organization and our API docs (https:/
 
 ## Miscellaneous
 
+**[Tailor](https://github.com/usetrmnl/tailor)** - custom boot screen and loading icon flasher
+
 **[Mockups](https://github.com/usetrmnl/mockups)** - high fidelity render templates to share your work
 
 **[TRMNL::API](https://github.com/usetrmnl/trmnl-api)** - a Ruby gem for interacting with the [TRMNL API](https://trmnl.com/api-docs/index.html)
